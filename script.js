@@ -1,8 +1,8 @@
 const productos = [
     {id:1, nombre: "producto 1", precio: 100, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
-    {id:2, nombre: "producto 2", precio: 150, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
-    {id:3, nombre: "producto 3", precio: 200, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
-    {id:4, nombre: "producto 4", precio: 250, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
+    {id:2, nombre: "producto 2", precio: 150, imagen: "https://misanimales.com/wp-content/uploads/2024/06/o-69.png"},
+    {id:3, nombre: "producto 3", precio: 200, imagen: "https://misanimales.com/wp-content/uploads/2021/11/caballo-come-hierba.jpg"},
+    {id:4, nombre: "producto 4", precio: 250, imagen: "https://misanimales.com/wp-content/uploads/2024/09/gato-american-bobtail.jpg"},
     {id:5, nombre: "producto 5", precio: 300, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
     {id:6, nombre: "producto 6", precio: 350, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
     {id:7, nombre: "producto 7", precio: 400, imagen: "https://misanimales.com/wp-content/uploads/2020/04/panda-rojo-cara.jpg"},
